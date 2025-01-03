@@ -13,7 +13,6 @@ The Excel file consists of the following sheets:
 4. **Sales Method**: A breakdown of sales based on the method used (e.g., In-store, Online).
 5. **Sales Regions**: Provides insights on how sales are distributed across different regions.
 6. **Sales Trend**: Displays sales trends over time, helping to identify patterns and seasonal variations.
-7. **Sheet1**: This sheet may contain raw or additional data.
 
 ## Data Sheet Overview
 The **Data** sheet includes the following columns:
